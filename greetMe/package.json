@@ -1,0 +1,22 @@
+{
+  "name": "aws-lambda-and-serverless-architecture",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000a\u0000w\u0000s\u0000-\u0000l\u0000a\u0000m\u0000b\u0000d\u0000a\u0000-\u0000a\u0000n\u0000d\u0000-\u0000s\u0000e\u0000r\u0000v\u0000e\u0000r\u0000l\u0000e\u0000s\u0000s\u0000-\u0000a\u0000r\u0000c\u0000h\u0000i\u0000t\u0000e\u0000c\u0000t\u0000u\u0000r\u0000e\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelwestblade/aws-lambda-and-serverless-architecture.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelwestblade/aws-lambda-and-serverless-architecture/issues"
+  },
+  "homepage": "https://github.com/michaelwestblade/aws-lambda-and-serverless-architecture#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
